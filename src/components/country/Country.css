@@ -2,6 +2,8 @@
   margin: 20px;
   background-color: bisque;
   padding: 10px;
+  border: 4px solid gray;
+  border-radius: 25px;
 }
 .country img{
   width: 150px;
